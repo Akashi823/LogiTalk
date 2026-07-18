@@ -39,7 +39,8 @@ https://www.python.org/downloads/
 
 ```bash
 pip install customtkinter pillow
-```
+```<img width="865" height="322" alt="Screenshot 2026-07-18 135144" src="https://github.com/user-attachments/assets/9d7b100d-9aff-4da5-bc41-207344658cfe" />
+
 
 ### 3. Запустіть сервер
 
@@ -59,6 +60,7 @@ python main.py
 ```
 
 > Якщо головний файл має іншу назву, використайте її замість `main.py`.
+<img width="602" height="193" alt="Screenshot 2026-07-18 135905" src="https://github.com/user-attachments/assets/5bfb2520-d642-4cc1-a183-6db0ad8f027c" />
 
 ## Як користуватися програмою
 
@@ -160,5 +162,3 @@ chat_history.txt
 ## Автор
 
 Навчальний проєкт, створений для демонстрації роботи локального мережевого месенджера з графічним інтерфейсом на Python.
-
-Такий README виглядатиме значно охайніше на GitHub і не міститиме горизонтальних ліній.
