@@ -57,7 +57,7 @@ pip install customtkinter pillow
 
 bash
 python main.py
-```
+
 
 > Якщо головний файл має іншу назву, використайте її замість `main.py`.
 <img width="602" height="193" alt="Screenshot 2026-07-18 135905" src="https://github.com/user-attachments/assets/5bfb2520-d642-4cc1-a183-6db0ad8f027c" />
@@ -107,9 +107,9 @@ python main.py
 
 У папці з програмою буде створено файл:
 
-```text
+text
 chat_history.txt
-```
+
 
 У ньому буде збережена вся історія повідомлень.
 
