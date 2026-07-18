@@ -39,8 +39,6 @@ https://www.python.org/downloads/
 
 bash
 pip install customtkinter pillow
-<img width="865" height="322" alt="Screenshot 2026-07-18 135144" src="https://github.com/user-attachments/assets/9d7b100d-9aff-4da5-bc41-207344658cfe" />
-
 
 ### 3. Запустіть сервер
 
@@ -49,7 +47,8 @@ pip install customtkinter pillow
 Після запуску сервера можна відкривати програму.
 
 > Тут можна додати скріншот сервера:
-><img width="1028" height="1025" alt="Screenshot 2026-07-18 133841" src="https://github.com/user-attachments/assets/aa276a3e-028c-4a63-9c54-41aea2756952" />
+<img width="838" height="580" alt="Screenshot 2026-07-18 140824" src="https://github.com/user-attachments/assets/6de22f7f-62a3-464d-aa93-6c6fd2c5e62c" />
+
 
 > `![Сервер](images/server.png)`
 
@@ -57,10 +56,10 @@ pip install customtkinter pillow
 
 bash
 python main.py
+<img width="602" height="193" alt="image" src="https://github.com/user-attachments/assets/403bd184-4dcc-468f-9545-824d34b688b1" />
 
 
 > Якщо головний файл має іншу назву, використайте її замість `main.py`.
-<img width="602" height="193" alt="Screenshot 2026-07-18 135905" src="https://github.com/user-attachments/assets/5bfb2520-d642-4cc1-a183-6db0ad8f027c" />
 
 ## Як користуватися програмою
 
@@ -81,6 +80,7 @@ python main.py
 Натисніть кнопку **▶️** у верхньому лівому куті.
 
 У меню доступні такі функції:
+<img width="732" height="799" alt="Screenshot 2026-07-18 141014" src="https://github.com/user-attachments/assets/99027c39-3bc4-445d-b7c3-dcb1b5223c05" />
 
 * зміна імені користувача;
 * збереження історії чату;
