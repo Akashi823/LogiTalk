@@ -37,9 +37,9 @@ https://www.python.org/downloads/
 
 Відкрийте командний рядок або Terminal та виконайте команду:
 
-```bash
+bash
 pip install customtkinter pillow
-```<img width="865" height="322" alt="Screenshot 2026-07-18 135144" src="https://github.com/user-attachments/assets/9d7b100d-9aff-4da5-bc41-207344658cfe" />
+<img width="865" height="322" alt="Screenshot 2026-07-18 135144" src="https://github.com/user-attachments/assets/9d7b100d-9aff-4da5-bc41-207344658cfe" />
 
 
 ### 3. Запустіть сервер
@@ -55,7 +55,7 @@ pip install customtkinter pillow
 
 ### 4. Запустіть програму
 
-```bash
+bash
 python main.py
 ```
 
